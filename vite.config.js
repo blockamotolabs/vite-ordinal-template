@@ -171,6 +171,7 @@ export default defineConfig(({ command }) => {
                     'suspend-react',
                     'miniplex',
                     'simplex-noise',
+                    'alea',
                     'bitmapOCI',
                     'bitmon'
                 ]),
